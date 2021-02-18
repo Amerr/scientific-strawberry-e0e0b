@@ -18,6 +18,7 @@ sections:
     show_excerpt: true
     show_image: true
     background_color: none
+    title: Hello world
   - type: mailchimp_newsletter_section
     padding_top: large
     padding_bottom: large
