@@ -1,0 +1,161 @@
+{
+    "domain": "",
+    "header": {
+        "title": "Covered",
+        "subtitle": "by CLARK",
+        "has_left_nav": true,
+        "left_nav_links": [
+            {
+                "label": "Über clark",
+                "url": "https://www.clark.de/",
+                "style": "link"
+            }
+        ],
+        "has_hidden_nav": true,
+        "hidden_nav_link_groups": [
+            {
+                "font_size": "large",
+                "divider": "thin",
+                "nav_links": [
+                    {
+                        "label": "Create",
+                        "url": "/articles/category/create",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Enjoy",
+                        "url": "/articles/category/enjoy",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Discover",
+                        "url": "/articles/category/discover",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "font_size": "large",
+                "divider": "thick",
+                "nav_links": [
+                    {
+                        "label": "Über CLARK",
+                        "url": "https://www.clark.de/",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "font_size": "regular",
+                "divider": "none",
+                "nav_links": [
+                    {
+                        "label": "Facebook",
+                        "url": "https://www.facebook.com/",
+                        "style": "link",
+                        "new_window": true
+                    },
+                    {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/",
+                        "style": "link",
+                        "new_window": true
+                    },
+                    {
+                        "label": "Twitter",
+                        "url": "https://twitter.com/",
+                        "style": "link",
+                        "new_window": true
+                    },
+                    {
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "style": "link",
+                        "new_window": true
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "logo": "images/logo-footer.png",
+        "logo_alt": "Clark logo",
+        "title": "COVERED",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Articles",
+                "url": "/articles",
+                "style": "link"
+            },
+            {
+                "label": "Sample Page",
+                "url": "/advanced-page",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/",
+                "style": "button",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "button",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "button",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "button",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/",
+                "style": "button",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com/?utm_source=deployed-footer",
+                "style": "button",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit DIY Theme"
+}
